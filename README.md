@@ -95,6 +95,8 @@ Test-Folder/
 * Add duplicate-file detection
 * Add customizable categories
 * Add logging functionality
+## Project Status
+Completed✅
 
 ## 👨‍💻 Author
 |Computer Science Engineering Student | Python & Software Development Enthusiast | Building Projects & Exploring Technology |
